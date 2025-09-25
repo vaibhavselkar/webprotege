@@ -17,3 +17,18 @@ velocity.log.*
 dependency-reduced-pom.xml
 
 .protegedata/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build / cache
+target/
+node_modules/
+__pycache__/
